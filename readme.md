@@ -20,7 +20,7 @@
 ## 🚀 About Me
 
 - 🎓 **Bachelor's in Information Technology** - Mongolia University of Science and Technology (MUST), 2018
-- 💼 **Cloud Engineer** at **FIBO CLOUD** since 2019
+- 💼 **Cloud Engineer** since 2019
 - 🏆 **CKA: Certified Kubernetes Administrator** (The Linux Foundation, Mar 2022 - Mar 2025)
 - ☁️ **AWS Certified Developer – Associate** (May 2020 - Apr 2023)
 - 🎯 Currently pursuing **AWS Certified Solutions Architect – Professional**
