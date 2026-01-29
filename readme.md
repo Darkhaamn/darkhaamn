@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cloud+Architect+%26+Engineer;AWS+%26+OpenStack+Expert;Kubernetes+Administrator+(CKA);Full-Stack+Developer;DevOps+Enthusiast" alt="Typing SVG" />
 
-📍 **Ulaanbaatar, Mongolia** 🇲🇳
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darkhanbayar-erdenebat/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darkhaamn)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darhanbayr)
