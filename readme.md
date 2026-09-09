@@ -22,8 +22,9 @@ OpenStack.
 
 I built **Cloud.mn**, Mongolia's first public cloud platform, from the earliest control-panel
 commit through to serving 300+ enterprise clients, and later led its expansion into Kazakhstan as
-CTO of Fibo Cloud. I have owned a production on-call rotation, sustained 99.95% uptime, and written
-the runbooks that let an operations team take over deploys and incident response without me.
+System Architect at Fibo Cloud, directing platform engineering across 20+ engineers, architects and
+PMs. I have owned a production on-call rotation, sustained 99.95% uptime, and written the runbooks
+that let an operations team take over deploys and incident response without me.
 
 - **AWS Certified Solutions Architect – Professional** (Jun 2026)
 - **M.S. Computer Science**, Maharishi International University, Iowa (Feb 2026 – Oct 2028)
